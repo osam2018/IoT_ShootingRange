@@ -44,7 +44,7 @@ void setup()
 
 void loop()
 {  
-  // ----------Calculate time passed----------
+  // ----------Calculate passed time----------
   timePassed = millis();
   
   // ----------Set level----------
